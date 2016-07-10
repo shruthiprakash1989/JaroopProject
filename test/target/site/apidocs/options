@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/Supreeth.msv/.m2/repository/org/json/json/20151123/json-20151123.jar;C:/Users/Supreeth.msv/.m2/repository/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/Supreeth.msv/Documents/NetBeansProjects/test/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2016. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Supreeth.msv/Documents/NetBeansProjects/test/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'test 1.0-SNAPSHOT API'
+-linkoffline
+'http://docs.oracle.com/javase/8/docs/api' 'C:/Users/Supreeth.msv/Documents/NetBeansProjects/test/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'test 1.0-SNAPSHOT API'
